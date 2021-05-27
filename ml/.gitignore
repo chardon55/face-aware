@@ -1,0 +1,8 @@
+*.py
+*.ipynb
+!cnn*.py
+!std_dataset.py
+!image_classification.py
+!seaborn_plot.py
+!overall_eval.ipynb
+!/__init__.py
