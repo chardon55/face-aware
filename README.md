@@ -8,4 +8,6 @@ Due to the hardware restrictions, the models were as simple as demos.
 
 This repository does not contain dataset, due to the size of it (over 11 GiB).
 
+The models were used in Faceval.
+
 License: Apache 2.0 (Current), GPL 3.0 (Before being archived)
