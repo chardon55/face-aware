@@ -4,7 +4,7 @@ A solution of face scoring (or "测颜值" in Mandarin) using [TensorFlow](https
 
 Written in Python in January 2021.
 
-Due to the hardware restrictions, the models were as simple as demos.
+Due to the hardware restrictions, the models were as simple as demos (so to speak🙊).
 
 This repository does not contain dataset, since it is too large (over 11 GiB).
 
